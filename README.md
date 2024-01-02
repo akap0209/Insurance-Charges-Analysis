@@ -11,5 +11,7 @@ This dataset contains information regarding 1337 people from four geographical r
 4.	What impact does smoking have on someone’s insurance charges?
 # Data Limitations
 The insurance data was collected manually so there could be some errors. There are also only 1339 rows of data which may not be enough of a sample to predict insurance costs for every patient. We also do not know specifically what city or state a patient lives in. The data just provides regions of the US.  Much of this data is limited to patients with access to healthcare, hospitals, and willingness to seek medical treatment so there could be even more insurance costs than this dataset suggests. 
+# Data Ethics
+The data was collected with the consent of its participants and none of their private information was included. Therefore, there are no ethical concerns with the data. 
 # Tableau Dashboard
 [Tableau Storyboard](https://public.tableau.com/app/profile/alex.kaplan3758/viz/InsuranceChargesAnalysis/MedicalCostsAnalysis?publish=yes)
