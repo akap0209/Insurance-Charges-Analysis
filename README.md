@@ -9,4 +9,4 @@ The insurance dataset was collected from Kaggle. The insurance dataset was colle
 
 
 # Final Report
-[Tableau Storyboard] (https://public.tableau.com/app/profile/alex.kaplan3758/viz/InsuranceChargesAnalysis/MedicalCostsAnalysis?publish=yes)
+[Tableau Storyboard](https://public.tableau.com/app/profile/alex.kaplan3758/viz/InsuranceChargesAnalysis/MedicalCostsAnalysis?publish=yes)
