@@ -14,7 +14,7 @@ The goal of this analysis is to determine which variables contribute the most to
 3.	Is there are connection between insurance charges and someone’s BMI?
 4.	What impact does smoking have on someone’s insurance charges?
 ## Data Limitations
-The insurance data was collected manually so there could be some errors. There are also only 1339 rows of data which may not be enough of a sample to predict insurance costs for every patient. We also do not know specifically what city or state a patient lives in. The data just provides regions of the US.  Much of this data is limited to patients with access to healthcare, hospitals, and willingness to seek medical treatment so there could be even more insurance costs than this dataset suggests. 
+The insurance data was collected manually so there could be some errors. There are also only 1339 rows of data which may not be enough of a sample to predict insurance costs for every patient. We also do not know specifically what city or state a patient lives in. The dataset only provides regions of the United States, so we cannot determine the specific state in which each person in the dataset resides.  Much of this data is limited to patients with access to healthcare, hospitals, and willingness to seek medical treatment so there could be even more insurance costs than this dataset suggests. 
 ## Data Ethics
 The data was collected with the consent of its participants and none of their private information was included. Therefore, there are no ethical concerns with the data. 
 ## Tableau Dashboard
